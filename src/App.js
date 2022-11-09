@@ -1,5 +1,6 @@
 import React from "react";
 
+//@flow
 const App = () =>{
     return(
         <h1>
